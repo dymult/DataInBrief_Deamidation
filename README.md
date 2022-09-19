@@ -1,6 +1,6 @@
 # DataInBrief_Deamidation
 This repository contains the R Script for calculating deamidation ratios from GPM outputs and the collated protein and peptide search results
-as explained in Multari et al. 2022 Data In Brief. (link to paper will be added once published).
+as explained in Multari et al. 2022 Data In Brief DOI: https://doi.org/10.1016/j.dib.2022.108562.
 
 The folder 'Deamidate_DIB' conatins the input GPM peptide result files (.xlsx) for the R Script (deamidate_DIB.R) as well as example output files (.png).
 
